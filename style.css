@@ -1,3 +1,7 @@
 .git {
     height: 20px;
+    border: 2px solid red;
+}
+.p {
+    text-decoration: silver;
 }
